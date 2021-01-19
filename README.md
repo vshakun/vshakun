@@ -6,7 +6,7 @@ Welcome to my profile! I'm a junior front-end developer with project management 
 
 Looking for a new role in an exciting company, here is my [resume](https://www.linkedin.com/in/veronika-shakun-5223701b0/)!
 
-# Projects :woman_technologist:
+## Projects :woman_technologist:
 
 - **Jammming**
 
