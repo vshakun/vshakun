@@ -6,6 +6,6 @@ Welcome to my profile!
 
 I'm a junior front-end developer with project management experience and foreign language teacher bachelor degree. 
 
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/veronika-shakun-5223701b0/)!
+Thanks for visiting and I'd like to [connect](https://www.linkedin.com/in/veronika-shakun-5223701b0/)!
 
 
