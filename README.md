@@ -4,7 +4,7 @@
 
 Welcome to my profile! 
 
-I'm a front-end developer with project management experience and a foreign language teacher bachelor degree. 
+I'm a front-end developer with project management experience and a foreign language teacher degree. 
 
 Thanks for visiting and I'd like to [connect](https://www.linkedin.com/in/veronika-shakun-5223701b0/)!
 
